@@ -1,6 +1,6 @@
 <h1 align="center">Lucas Torres de Oliveira Dias</h1>
 <p align="center">
-  <img src="1718327358821.jpeg" >
+  <img src="ft_210309_grupo_java_gr.png" >
 </p>
 
 # Bem vindos ao meu portfólio de projetos
