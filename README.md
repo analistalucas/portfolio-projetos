@@ -3,7 +3,7 @@
   <img src="ft_210309_grupo_java_gr.png" >
 </p>
 
-# Bem vindos ao meu portfólio de projetos
+# Bem-vindos ao meu portfólio de projetos
 
 Olá, meu nome é Lucas. Sou analista de dados, formado em Engenharia Aeronáutica pela Universidade Federal de Uberlândia. Possuo sólidos conhecimentos em matemática, estatística, análise de indicadores e criação de relatórios para suporte à tomada de decisão.
 
